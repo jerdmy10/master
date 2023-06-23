@@ -1,0 +1,8 @@
+C:\Users\jerdm\source\repos\ConsoleApp9\tablas\obj\Debug\net6.0-windows\tablas.csproj.AssemblyReference.cache
+C:\Users\jerdm\source\repos\ConsoleApp9\tablas\obj\Debug\net6.0-windows\tablas.Form1.resources
+C:\Users\jerdm\source\repos\ConsoleApp9\tablas\obj\Debug\net6.0-windows\tablas.csproj.GenerateResource.cache
+C:\Users\jerdm\source\repos\ConsoleApp9\tablas\obj\Debug\net6.0-windows\tablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerdm\source\repos\ConsoleApp9\tablas\obj\Debug\net6.0-windows\tablas.AssemblyInfoInputs.cache
+C:\Users\jerdm\source\repos\ConsoleApp9\tablas\obj\Debug\net6.0-windows\tablas.AssemblyInfo.cs
+C:\Users\jerdm\source\repos\ConsoleApp9\tablas\obj\Debug\net6.0-windows\tablas.csproj.CoreCompileInputs.cache
+C:\Users\jerdm\source\repos\ConsoleApp9\tablas\obj\Debug\net6.0-windows\tablas.Properties.Resources.resources
